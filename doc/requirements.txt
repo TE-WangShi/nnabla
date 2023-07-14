@@ -1,6 +1,6 @@
-nnabla==1.37.0.dev1
+nnabla==1.36.0
 Sphinx<7
-sphinx-rtd-theme
+sphinx-rtd-theme==0.4.3
 mock
 pillow<10.0
 alabaster
